@@ -26,7 +26,7 @@ msgstr ""
 #. i18n-hint C++ programming assertion
 #: crashreports/crashreporter/CrashReportApp.cpp
 msgid "Unknown exception"
-msgstr ""
+msgstr "Excepció desconeguda"
 
 #: crashreports/crashreporter/CrashReportApp.cpp
 #, fuzzy
@@ -46,7 +46,7 @@ msgstr ""
 #: crashreports/crashreporter/CrashReportApp.cpp
 #: src/widgets/ErrorReportDialog.cpp
 msgid "Problem details"
-msgstr ""
+msgstr "Detalls del problema"
 
 #: crashreports/crashreporter/CrashReportApp.cpp src/Tags.cpp
 #: src/prefs/MousePrefs.cpp src/widgets/ErrorReportDialog.cpp
